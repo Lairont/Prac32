@@ -15,7 +15,7 @@ namespace ConsoleApp16
             bool flag = true;
             do
             {
-                Console.Write("Введите название персоны: ");
+                Console.Write("Введите персону: ");
                 string metka = Console.ReadLine();
                 switch (metka)
                 {
